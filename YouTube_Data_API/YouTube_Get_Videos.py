@@ -27,5 +27,5 @@ def get_channel_videos(channel_id, api_key):
     return video_ids
 
 api_key = "API"
-channel_id = "UCAq50jQvH-8bD-3IJ-HcIfQ"
+channel_id = "CHANNEL ID"
 video_ids = get_channel_videos(channel_id, api_key)
