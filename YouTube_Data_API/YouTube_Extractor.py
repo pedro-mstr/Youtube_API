@@ -15,7 +15,7 @@ def get_video_info(video_id, api_key):
     return video_data
 
 
-api_key = "AIzaSyABMX2X1iL_r3at-5Z4esLybqJ-QMFe9j8"
+api_key = "API"
 
 # Load video IDs from the JSON file
 with open('video_ids.json', 'r') as f:
